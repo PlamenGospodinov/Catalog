@@ -68,3 +68,6 @@ C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy
 C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Plamen\source\repos\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
